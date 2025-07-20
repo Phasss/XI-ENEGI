@@ -311,7 +311,7 @@ header .container {
 
 /* Presentations Section */
 .presentations {
-    background-color: var(--light-color);
+    background-color:#ffffff;
     position: relative;
     overflow: hidden;
 }
